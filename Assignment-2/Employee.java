@@ -11,6 +11,6 @@ class Employee {
         System.out.println("Employee Name: " + name);
         System.out.println("Salary before hike: " + baseSalary);
         System.out.println("Salary after hike: " + finalSalary);
-        System.out.println("-----------------------------");
     }
 }
+
